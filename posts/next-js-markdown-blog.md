@@ -37,4 +37,4 @@ export default MyApp;
 
 ```
 
-![inu.png](http://localhost:3000/inu.png)
+![inu.png](/../public/inu.png)
