@@ -1,3 +1,23 @@
+
+@tailwind base;
+.alert {
+  font-weight: bold;
+  padding: 0.5em;
+  background-color: orange;
+  color: white;
+}
+@tailwind components;
+@tailwind utilities;
+
+:target::before {
+  content: '';
+  display: block;
+  height: 72px;
+  margin-top: -72px;
+  visibility: hidden;
+}
+
+
 :root {
   --max-width: 1100px;
   --border-radius: 12px;
