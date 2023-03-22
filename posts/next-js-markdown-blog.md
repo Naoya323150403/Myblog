@@ -37,4 +37,4 @@ export default MyApp;
 
 ```
 
-![inu.png](/../public/inu.png)
+![inu.png](https://myblog-naoya323150403.vercel.app/public/inu.png)

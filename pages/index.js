@@ -3,7 +3,7 @@ import matter from 'gray-matter';
 //import Pagination from '../components/Pagination';
 import PostCard from '../components/PostCard';
 
-const PAGE_SIZE = 2;
+const PAGE_SIZE = 100;
 
 const range = (start, end, length = end - start + 1) =>
   Array.from({ length }, (_, i) => start + i);
