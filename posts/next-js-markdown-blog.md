@@ -36,5 +36,4 @@ function MyApp({ Component, pageProps }) {
 export default MyApp;
 
 ```
-
-![inu.png](https://myblog-naoya323150403.vercel.app/public/inu.png)
+![inu.png](/inu.png)
